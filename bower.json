@@ -1,0 +1,25 @@
+{
+  "name": "hbe",
+  "version": "1.0.0",
+  "authors": [
+    "Syaku (최석균) <syaku@naver.com>"
+  ],
+  "homepage": "http://syaku.tistory.com",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2",
+    "es5-shim": "~2.2.0",
+    "jquery": "1.11.3",
+    "jquery-migrate": "~1.2.1",
+    "font-awesome": "~4.5.0",
+    "bootstrap": "~3.3.6"
+  }
+}
